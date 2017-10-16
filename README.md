@@ -1,6 +1,8 @@
 # docker-cordova-ng
 
-## based on [beevelop/cordova](https://github.com/beevelop/docker-cordova)
+based on [beevelop/cordova](https://github.com/beevelop/docker-cordova)
+
+Adds ng-cli and turns off cordova telemetry.
 
 ----
 ### Pull from Docker Hub
